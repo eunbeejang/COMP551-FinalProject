@@ -1,4 +1,10 @@
 # COMP551- Fall 2018 FinalProject: T1 - 06: "Effective Use of Word Order for Text Categorization with CNN"
+Team Name: Triplets
+Team members:
+    1. Sadhvi Mehta, sadhvi.mehta@mail.mcgill.ca, 260747607
+    2. Abhijay Gupta, abhijay.gupta@mail.mcgill.ca, 260708548
+    3. Andrea Eunbee Jang, eunbee.jang@mail.mcgill.ca, 260658722
+    
 Sentiment Classification using SVM, NB, NB-SVM, and MultiLayer Perceptron Neural Networks
 
 Contents of this repo:
@@ -8,11 +14,11 @@ Contents of this repo:
 3. 'SVM_model.ipynb' contains all the code for the model SVM implementation.
 4. 'NeuralNetwork.ipynb' contains all the code for the model MultiLayer Perceptron Neural Network implemented using Keras.
 
-NOTE: ALL NOTEBOOK FILES ALREADY CONTAIN THEIR RESPECTIVE DATA PREPROCESSING. THERE IS NO EXTERNAL DATA PREPROCESSING FILE.
+NOTE: ALL NOTEBOOK FILES ALREADY CONTAIN THEIR RESPECTIVE DATA PREPROCESSING CODE. THERE IS NO EXTERNAL DATA PREPROCESSING FILE.
 
 Set-up:
 
-1. First setup your folder directory such that you have all notebook files in same level.
+1. First setup your folder directory such that you have all notebook files in the same level.
 2. Create folder called 'Dataset' on same level as all notebook files if not already created.
 3. Create folder called 'Input' child folder of 'Dataset' folder if not already created.
 4. Within the 'Input' folder, store the 'IMDB-train.txt', 'IMDB-valid.txt', and 'IMDB-test.txt' files.
