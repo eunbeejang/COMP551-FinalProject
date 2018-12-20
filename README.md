@@ -1,5 +1,5 @@
 # COMP551- Fall 2018 FinalProject: T1 - 06: "Effective Use of Word Order for Text Categorization with CNN"
-Sentiment Classification using SVM, NB-SVM, and MultiLayer Perceptron Neural Networks
+Sentiment Classification using SVM, NB, NB-SVM, and MultiLayer Perceptron Neural Networks
 
 Contents of this repo:
 
