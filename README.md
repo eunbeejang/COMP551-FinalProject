@@ -20,4 +20,5 @@ Set-up:
 Run this code:
 
 1. Run the notebook file of the corresponding model you wish to test in the chronological order of the cells as setup within the notebook files.
+
 NOTE: PLEASE PAY ATTENTION TO MARKDOWNS IN THE MODELS' CODE BECAUSE THEY CONTAIN IMPORTANT INFO ON HOW TO REFORMAT DATA AFTER EVERY TIME A MODEL IS FIT.
